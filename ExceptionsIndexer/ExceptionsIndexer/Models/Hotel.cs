@@ -47,7 +47,8 @@ namespace ExceptionsIndexer.Models
 
         public void AddRoom(Room room)
         {
-            // arraya elave etmek
+            Array.Resize(ref _rooms, _rooms.Length+1);
+            _rooms[_rooms.Length - 1] = room;
         }
 
 

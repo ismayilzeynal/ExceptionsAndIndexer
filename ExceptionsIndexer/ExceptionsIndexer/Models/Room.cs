@@ -13,8 +13,7 @@ namespace ExceptionsIndexer.Models
             this.Price = Price;
             this.PersonCapacity = PersonCapacity;
         }
-
-        public Room(string Name, float Price, int PersonCapacity, bool IsAvailable):this(Name, Price, PersonCapacity)
+        public Room(string Name, float Price, int PersonCapacity, bool IsAvailable) : this(Name, Price, PersonCapacity)
         {
             this.IsAvailable = IsAvailable;
         }
@@ -25,16 +24,18 @@ namespace ExceptionsIndexer.Models
         private float _price;
         private int _personCapacity;
         private bool _isAvailable;
-        public string Name { 
+        public string Name
+        {
             get => _name;
             set
             {
                 _name = value;
-            } 
+            }
         }
 
-        public float Price { 
-            get => _price; 
+        public float Price
+        {
+            get => _price;
             set
             {
                 if (value >= 0)
@@ -42,14 +43,16 @@ namespace ExceptionsIndexer.Models
             }
         }
 
-        public int PersonCapacity {
+        public int PersonCapacity
+        {
             get => _personCapacity;
             set
             {
                 if (value > 0)
                     _personCapacity = value;
-            } 
+            }
         }
+        
 
         public bool IsAvailable {
             get => _isAvailable;
@@ -60,7 +63,9 @@ namespace ExceptionsIndexer.Models
         }
 
 
-        
+
+
+
 
 
 

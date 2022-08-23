@@ -8,7 +8,7 @@ namespace ExceptionsIndexer.Utilies.Exceptions
     {
         public NotAvailableException()
         {
-            Console.WriteLine("Exception: Not available");
+            Console.WriteLine("Not available");
         }
     }
 }

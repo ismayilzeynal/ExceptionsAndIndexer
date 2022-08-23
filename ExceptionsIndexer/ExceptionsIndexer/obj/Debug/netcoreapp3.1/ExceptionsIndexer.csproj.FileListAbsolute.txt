@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\bin\Debug\netcoreapp3.1\ExceptionsIndexer.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\23.08.2022\ExceptionsIndexer\ExceptionsIndexer\obj\Debug\netcoreapp3.1\ExceptionsIndexer.genruntimeconfig.cache

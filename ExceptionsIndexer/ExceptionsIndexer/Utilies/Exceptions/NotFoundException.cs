@@ -8,7 +8,7 @@ namespace ExceptionsIndexer.Utilies.Exceptions
     {
         public NotFoundException()
         {
-            Console.WriteLine("Exception: Not found");
+            Console.WriteLine("Not found");
         }
     }
 }
